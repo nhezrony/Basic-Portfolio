@@ -1,0 +1,29 @@
+h2 {
+    margin: 2%;
+    font-size: 32px;
+    color: #4aaaa5;
+    /* border-bottom: 2px solid #cccccc; */
+    
+}
+
+p {
+    /* border-top: 2px solid #cccccc; */
+    font-size: 22px;
+    color: #777777;
+}
+
+#center {
+    margin: 2%;
+    border-top: 2px solid #cccccc;
+
+}
+
+img {
+    padding-right: 2%;
+    padding-top: 2%;
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+}
